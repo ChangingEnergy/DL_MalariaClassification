@@ -1,11 +1,11 @@
 name: dl-environment
 dependencies:
-    - pip
-    - numpy
-    - matplotlib
-    - glob
-    - os
-    - sklearn
-    - cv2
-    - tensorflow
-    - RISE
+    - pip:
+    	- numpy
+    	- matplotlib
+    	- glob
+    	- os
+    	- sklearn
+    	- cv2
+    	- tensorflow
+    	- RISE
