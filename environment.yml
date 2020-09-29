@@ -3,7 +3,7 @@ dependencies:
   - pip:
     - numpy
     - matplotlib
-    - glob
+    - glob3
     - os
     - sklearn
     - cv2
