@@ -5,6 +5,6 @@ dependencies:
     - matplotlib
     - glob3
     - sklearn
-    - cv2
+    - opencv-python
     - tensorflow
     - RISE
