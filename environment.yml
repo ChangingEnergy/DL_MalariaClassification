@@ -5,6 +5,7 @@ dependencies:
     - matplotlib
     - glob3
     - sklearn
+    - apt install libgl1-mesa-glx
     - opencv-python
     - tensorflow
     - RISE
