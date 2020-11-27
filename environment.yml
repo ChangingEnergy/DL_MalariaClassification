@@ -3,7 +3,6 @@ dependencies:
   - pip:
     - numpy
     - matplotlib
-    - glob3
     - sklearn
     - opencv-python-headless
     - tensorflow
